@@ -1,0 +1,2 @@
+msg = "glhf"
+print(msg)
